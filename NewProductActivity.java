@@ -44,7 +44,7 @@ public class NewProductActivity extends Activity {
     EditText txtUrl;
     Button b;
     String mn;
-    private static String url_create_product = "http://zamer.com.ua/phpapi/add_zapros.php";
+    private static String url_create_product = "http://zamer.com.ua/phpapi/api";
 
     private static final String TAG_SUCCESS = "success";
 
