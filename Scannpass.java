@@ -19,7 +19,7 @@ import java.util.List;
  */
 public class Scannpass {
 
-    private static String url_proverka = "http://91.234.35.173:8080/api";
+    private static String url_proverka = "http://zamer.com.ua/api";
 
     private static final String TAG_SUCCESS = "success";
     private static final String TAG_PRODUCT = "product";
