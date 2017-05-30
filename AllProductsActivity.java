@@ -36,7 +36,7 @@ public class AllProductsActivity extends ListActivity {
     ArrayList<HashMap<String, String>> productsList;
 
     // url получения списка всех продуктов
-    private static String url_all_products = "http://91.234.35.173:8080/api";
+    private static String url_all_products = "http://zamer.com.ua/api";
 
     // JSON Node names
     private static final String TAG_SUCCESS = "success";
