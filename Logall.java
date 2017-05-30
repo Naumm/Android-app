@@ -17,7 +17,7 @@ import java.util.HashMap;
 
 public class Logall extends Activity {
 
-    private static String url_proverka = "http://zamer.com.ua/phpapi/proverka.php";
+    private static String url_proverka = "http://zamer.com.ua/api";
 
     private static final String TAG_SUCCESS = "success";
     private static final String TAG_PRODUCT = "product";
