@@ -53,13 +53,13 @@ public class Reedite extends Activity {
     JSONParser jsonParser = new JSONParser();
 
     // url для получения одного продукта
-    private static final String url_product_detials = "http://91.234.35.173:8080/api";
+    private static final String url_product_detials = "http://zamer.com.ua/api";
 
     // url для обновления продукта
-    private static final String url_update_product = "http://91.234.35.173:8080/api";
+    private static final String url_update_product = "http://zamer.com.ua/api";
 
     // url для удаления продукта
-    private static final String url_delete_product = "http://91.234.35.173:8080/api";
+    private static final String url_delete_product = "http://zamer.com.ua/api";
 
     // JSON параметры
     private static final String TAG_SUCCESS = "success";
